@@ -1,1 +1,1 @@
-https://github.com/ThomyBth/mi-primer-sitio-web.git
+https://thomybth.github.io/mi-primer-sitio-web/
